@@ -1,0 +1,64 @@
+{   
+    "company": "ZIMA",
+    
+    "sloganOFfunctionality" : "ANALYZE TO fb instagram GOOGLE",
+    "officeName" : "ZIMA limited company",
+    "companylogo": "http://localhost/imagesPOSTreq/company.png", 
+     "datum" : "11.04.2023",
+     "logo" : "http://localhost/imagesPOSTreq/logo.jpg",
+     "contactpersoninfos": "Your contact person: Achim Gebhardt 089 - 55118 139 gebhardt@zima.de Munich, 01/28/2022",
+      "bankinfos" : "ZIMA Consulting + Management GmbH Brienner Straße 45 80333 Munich zima.münchen@zima.de Managing Director Roland Wölfel Register court Munich HRB 85796 Place of jurisdiction Munich UID DE129314570 Tax number 14312470390 Bank details Postbank Munich IBAN DE18 7001 0080 0305 5228 05 BIC PB NKDEFF Volksbank Forchheim IBAN DE15 7639 1000 0000 0777 80 BIC GENODEF1FOH",
+      "footnote" : "The rights to the elaboration are held by ZIMA Beratung +Management GmbH. The content and considerations on the part of the applicant are intended for the agency placing the order. Passing them on to uninvolved third parties is not permitted.",
+     "analysename" : "SOCIAL MEDIA STATISTICS",
+     "searchperiod": "21 - 29 AUGUST 2023",
+     "result" : "THIS IS A RESULT",
+     "branch1" : {"name" : "health" , "value" : "45"},
+     "branch2" : {"name" : "Trading" , "value" : "33"},
+     "branch3" : {"name" : "Restaurants and Caffes" , "value" : "11"},
+     "branch4" : {"name" : "Music" , "value" : "12"},
+     "branch5" : {"name" : "Educational Sys." , "value" : "23"},
+     "location" : "Turingen" , 
+
+     "google_barchart" : {"accountholder":"22", "NONaccountholder":"22"    },
+     "facebook_barchart" : {"accountholder":"12", "NONaccountholder":"22"   },
+     "instagram_barchart" : {"accountholder":"33", "NONaccountholder":"44"   },
+
+     "infoAboutGooglePROFIL" : { "contactinfosHAVE": "45", "contactifosNOThave" : "45",  
+                                 "openinghoursHAVE" : "22", "openinghoursNOThave": "44", 
+                                 "postACtive" : "44" , "postINACTIVE" : "22",            
+                                 "descriptionHAVE" : "77" , "descriptionNOThave" : "22"  },
+
+     "infoAboutFacePROFIL" : {  "contactinfosHAVE": "46", "contactifosNOThave" : "49",      
+                                "websiteHAVE" : "70" , "websiteNOThave": "25",              
+                                "servicesHAVE" : "84" , "servicesNOThave" : "11" ,          
+                                "emailHAVE" : "91" , "emailNOThave" : "4" ,                 
+                                "adressHAVE" : "30" , "adressNOThave": "65" ,               
+                                "phoneHAVE" : "85", "phoneNOThave" : "10" 
+                             },
+
+    "infoAboutInstaPROFIL" : {  "contactinfosHAVE": "50", "contactifosNOThave" : "45",  
+                                "openinghoursHAVE" : "88", "openinghoursNOThave": "7",  
+                                "postACtive" : "66" , "postINACTIVE" : "29",            
+                                "bioHAVE" : "77" , "bioNOThave" : "18" ,                
+                                "ifIMAGEmore10" : "11" , "ifIMAGEless10": "11"          
+                            },
+
+    "google_propertiesDISTRIBUTION" : { "area1name" : "telno" , "area1value": "22",
+                                        "area2name" : "activ times"  ,  "area2value": "22",
+                                        "area3name" : "menu"  ,  "area3value": "22"
+                                      }    ,
+
+    "facebook_propertiesDISTRIBUTION" : { "area1name" : "menu" , "area1value": "150",
+                                          "area2name" : "delivery settings"  ,  "area2value": "77",
+                                          "area3name" : "payment"  ,  "area3value": "66", 
+                                          "area4name" : "email"  ,  "area4value": "55" 
+                                        }   ,
+
+    "instagram_propertiesDISTRIBUTION" : { "area1name" : "rank > 1.0" ,   "area1value": "55",
+                                           "area2name" : "rank > 2.0"  ,  "area2value": "55",
+                                           "area3name" : "rank > 3.0"  ,  "area3value": "55", 
+                                           "area4name" : "rank > 4.0"  ,  "area4value": "55",
+                                           "area5name" : "rank = 5.0"  ,  "area5value": "55"
+                                         }   
+
+}
