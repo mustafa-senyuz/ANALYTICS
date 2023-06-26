@@ -1,0 +1,50 @@
+<data>
+            <firstpage>
+                <companylogo    companylogofile="http://localhost/imagesPOSTreq/company.png"/>    
+                <sloganOFfunctionality>ANALYZE TO fb instagram GOOGLE</sloganOFfunctionality>
+                <officeName>ZIMA limited company</officeName>
+                <datum>Datum des Online-Checks: 11.04.2023</datum>
+                <contactpersoninfos>Your contact person: Achim Gebhardt 089 - 55118 139 gebhardt@zima.de Munich, 01/28/2022</contactpersoninfos>
+                <bankinfos>ZIMA Consulting + Management GmbH Brienner Straße 45 80333 Munich zima.münchen@zima.de Managing Director Roland Wölfel Register court Munich HRB 85796 Place of jurisdiction Munich UID DE129314570 Tax number 14312470390 Bank details Postbank Munich IBAN DE18 7001 0080 0305 5228 05 BIC PB NKDEFF Volksbank Forchheim IBAN DE15 7639 1000 0000 0777 80 BIC GENODEF1FOH</bankinfos>
+                <footnote>The rights to the elaboration are held by ZIMA Beratung +Management GmbH. The content and considerations on the part of the applicant are intended for the agency placing the order. Passing them on to uninvolved third parties is not permitted.</footnote>       
+                <logo   logofile="http://localhost/imagesPOSTreq/logo.jpg"  />
+            </firstpage>
+            <secondpage>
+                 <analysename>analysis results SOCIAL MEDIA STATISTICS    </analysename>
+                 <searchperiod>investigation period: 21 - 29 AUGUST 2023</searchperiod>
+            </secondpage>
+            <thirdpage>
+                <result>RESULT: THIS IS A RESULT </result>        
+                <branch1>health ,  45 </branch1>
+                <branch2>Trading ,  33 </branch2>
+                <branch3>Restaurants and Caffes ,  11 </branch3>
+                <branch4>Music ,  12 </branch4>
+                <branch5>Educational Sys. ,  23 </branch5>
+                <totalplace>124</totalplace>
+                <location> Turingen</location>
+                <google_accountholder>(22)</google_accountholder>
+                <facebook_accountholder>(12)</facebook_accountholder>
+                <instagram_accountholder>(33)</instagram_accountholder>
+            </thirdpage>
+            <forthpage>
+                <googleprofil_contactinfosHAVE>Contact-details(45)</googleprofil_contactinfosHAVE>
+                <googleprofil_openinghoursHAVE>Opening-hours(22)</googleprofil_openinghoursHAVE>
+                <googleprofil_postACtive>PostAktive(44) </googleprofil_postACtive>
+                <googleprofil_descriptionHAVE>Beschreibung(77) </googleprofil_descriptionHAVE>
+                <faceprofil_contactinfosHAVE>Contact-details(46)</faceprofil_contactinfosHAVE>
+                <faceprofil_websiteHAVE>website(70)</faceprofil_websiteHAVE>
+                <faceprofil_servicesHAVE>services(84) </faceprofil_servicesHAVE>
+                <faceprofil_emailHAVE>email(91)  </faceprofil_emailHAVE>
+                <faceprofil_adressHAVE>address(30) </faceprofil_adressHAVE>
+                <faceprofil_phoneHAVE>phone(85)  </faceprofil_phoneHAVE>
+            </forthpage>
+            <fifthpage>
+                <instaprofil_contactinfosHAVE>Contact-details(50)</instaprofil_contactinfosHAVE>
+                <instaprofil_openinghoursHAVE>Opening-hours(88) </instaprofil_openinghoursHAVE>
+                <instaprofil_postACtive>PostAktive(66)</instaprofil_postACtive>
+                <instaprofil_bioHAVE>Biographie(77)  </instaprofil_bioHAVE>
+                <instaprofil_ifIMAGEmore10> (11)  </instaprofil_ifIMAGEmore10>
+            </fifthpage>
+            <sixthpage>
+            </sixthpage>
+</data>
