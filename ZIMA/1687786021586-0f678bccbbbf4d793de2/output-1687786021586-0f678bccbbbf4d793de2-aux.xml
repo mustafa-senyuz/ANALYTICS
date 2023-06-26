@@ -1,0 +1,9 @@
+<marker>
+  <pagelabel pagenumber="1" visible="1" />
+  <pagelabel pagenumber="2" visible="2" />
+  <pagelabel pagenumber="3" visible="3" />
+  <pagelabel pagenumber="4" visible="4" />
+  <pagelabel pagenumber="5" visible="5" />
+  <pagelabel pagenumber="6" visible="6" />
+ <lastpage page='6' />
+</marker>
